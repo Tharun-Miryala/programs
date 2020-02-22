@@ -10,5 +10,5 @@ int main(){
   ifstream in("output.txt");
   in>>n;
   cout<<"READ: "<<n<<endl;
-  in.close()
+  in.close();
 }
